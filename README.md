@@ -1,2 +1,3 @@
-# LinkList
-Este projeto é a previa de um site site personalizado que agrega vários links, otimizado especialmente para o Instagram. Foi desenvolvido utilizando as tecnologias HTML5 e CSS3.
+# Projeto LinkList para Instagram
+
+Este projeto é um site personalizado que agrega múltiplos links, otimizado especialmente para o Instagram. Foi desenvolvido utilizando as tecnologias HTML5 e CSS3, garantindo um design moderno e responsivo que se adapta a qualquer dispositivo ou tamanho de tela.
