@@ -1,0 +1,19 @@
+body{
+    font-family: "Roboto", sans-serif;
+    /*ESTILIZAÇÃO DO FUNDO DO SITE*/
+    background: linear-gradient(to bottom right, 	#000000, #4F4F4F);
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    color: white;
+}

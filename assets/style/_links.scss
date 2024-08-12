@@ -1,0 +1,36 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.degrade{
+    /*ESTILIZA COR DO DEGRADE DOS BOTOES*/
+    background: linear-gradient(to right, 	#F0F8FF, #696969  )
+}
+
+section.botoes-links{
+    display: flex;
+    flex-direction: column;
+    /*ESTILIZA COR DAS BORDAS DOS BOTOES*/
+    border-color: 3px solid black;
+    gap: 20px;
+}
+
+a.link button{
+    width: 100%;
+    padding: 15px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: none;
+    border-radius: 20px;
+    font-size: 1.2em;
+    cursor: pointer;
+    border-color: 10px solid white;
+    transition: 0.5s;
+    box-shadow: 5px 5px 3px#000000;
+}
+
+a.link button:hover{
+    transform:scale(1.05);
+}
